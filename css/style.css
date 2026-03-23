@@ -303,7 +303,7 @@ nav {
 
 .heading {
   display: flex;
-  width: 1280px;
+  min-width: 1280px;
   justify-content: space-between;
   align-items: center;
 }
