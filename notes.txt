@@ -1,0 +1,19 @@
+<div class="skills">
+      <div class="skills_title">
+        <span>Exploring My diverse Skill Set</span>
+      </div>
+      <div class="skills_card">
+        <div class="skills_logo">
+          <div class="tools">
+            <div class="tools_icon1"></div>
+            <span>Figma</span>
+          </div>
+        </div>
+      </div>
+        <div class="skills_logo">
+          <div class="tools">
+            <div class="tools_icon"></div>
+            <span>Figma</span>
+          </div>
+        </div>
+</div>
